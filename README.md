@@ -9,7 +9,10 @@ Beskrivning av lite det som gjorts och utmaningar. Skapa gärna [nya issues](htt
 ### SKOS -  Simple Knowledge Organization System
 Är ett sätt att utrycka semantiska likheter A är ung. som B
 * utmaningar som jag ser
-  * Stegeborgs slott / ruin -TBA
+  * Stegeborgs slott / ruin [funderingar vilka objekt vi bör ha](https://phabricator.wikimedia.org/T225522#5284001)
+
+<img width="948" alt="image" src="https://user-images.githubusercontent.com/14206509/186656453-acaaae06-1088-46fd-b3ea-d85a41868134.png">
+
     * Riksarkivet Tora projektet gjorde ett bra försök men tveksam hur det används se om [Tora](https://riksarkivet.se/tora) -  ["Historical Settlement Units as Linked Open Data"](http://ceur-ws.org/Vol-2364/24_paper.pdf)
 ## Skapa en egen Wikidata --> Wikibase.cloud dvs. dom hostar en egen wikibase för er
 * [om projektet](https://www.wikibase.cloud/)  
