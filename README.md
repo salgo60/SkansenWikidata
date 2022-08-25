@@ -1,5 +1,6 @@
 # SkansenWikidata
 Beskrivning av lite det som gjorts och utmaningar. Skapa gärna [nya issues](https://github.com/salgo60/SkansenWikidata/issues) med frågor...
+* Exempel https://github.com/salgo60/SkansenWikidata/issues/2
 
 ## Plug-in
 * [EasyQuery](https://www.wikidata.org/wiki/Special:Preferences): Ett verktyg som lägger till en ikon för att lättare hitta objekt samma uttalanden.
