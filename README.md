@@ -3,7 +3,7 @@ Beskrivning av lite det som gjorts och utmaningar. Skapa gärna [nya issues](htt
 
 ## Plug-in
 * [EasyQuery](https://www.wikidata.org/wiki/Special:Preferences): Ett verktyg som lägger till en ikon för att lättare hitta objekt samma uttalanden.
-   * [video hur man aktivirar den](https://youtu.be/r0fjNkI9M9Q)
+   * [video hur man aktiverar den](https://youtu.be/r0fjNkI9M9Q)
 ## Test av samma som Skansen
 * Museala miljöer - TBA
 ### SKOS -  Simple Knowledge Organization System
