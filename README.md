@@ -43,6 +43,6 @@ Jag har [skapat en lista - Magnus list](https://www.wikidata.org/wiki/User:Salgo
 ### Vanliga problem - inga helpdesk nummer ###
 Inga bra plattformar att rapportera in fel och se status på fel. 2018 gjorde jag en status lista över myndigheter och **det går inte att jobba utan tydlighet** se "[Lesson learned so far and what is needed](https://www.wikidata.org/wiki/Property_talk:P5587#Lesson_learned_so_far_and_what_is_needed)"... skall länkade data fungera så måste man prata med varandra '''[LinkeddataneedsLinkedpeople](https://twitter.com/hashtag/linkeddataneedslinkedpeople?src=hash&f=live)''' jag lyfte detta i [Bonn 2018 på SWIB](https://youtu.be/K0l4fv5uUvg?t=1577)
 
-#### Skickar runt textsträngar ####
+### Skickar runt textsträngar ###
 * exempel European Data portal skickar textsträngar med språk tag se [Notebook](https://github.com/salgo60/open-data-examples/blob/master/European%20data%20portal%20-%20quality%20of%20Metadata.ipynb)  efter en presentation om hur Google jobbar med kunskapsgrafer så frågade jag dom varför dom inte gör rätt [video](https://youtu.be/COBykM5d_cg?t=3263)....
 <img width="1013" alt="image" src="https://user-images.githubusercontent.com/14206509/186666160-9a45b7e3-188f-4641-945f-ac50b979fffd.png">
