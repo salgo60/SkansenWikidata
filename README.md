@@ -17,6 +17,7 @@ Beskrivning av lite det som gjorts och utmaningar. Skapa gärna [nya issues](htt
 
 * Riksarkivet Tora projektet gjorde ett bra försök men tveksam hur det används se om [Tora](https://riksarkivet.se/tora) -  ["Historical Settlement Units as Linked Open Data"](http://ceur-ws.org/Vol-2364/24_paper.pdf)
 * Trovärdighet på olika källor tycker jag Wikidata/Wikipedia inte fullt ut har löst - jag [frågade Denny i denna video som skapat Wikidata](https://youtu.be/VdAc0JReVSw?t=2450) och skrev ned detta "[We need a better model communicating quality/relevance of sources in Wikidata / Provenance" T222142](https://phabricator.wikimedia.org/T222142) 
+* Video där jag visar hur iNaturalist har snyggt kopplats ihop med Wikicommons vi kan hitta de senaste bilderna av skator där vi söker **fria licenser** / arter Pica Pica --> iNaturlist Taxonomy 111 där vi hämtar bilder med research level dvs. där flera sagt att det är en skata se [video 7 min](https://youtu.be/8FGFc5rljhc?t=421)
 ## Skapa en egen Wikidata --> Wikibase.cloud dvs. dom hostar en egen wikibase för er
 * [om projektet](https://www.wikibase.cloud/)  
   * exempel hur jag skapade data för [kommunernas anslagstavlor](https://sweopendata.wikibase.cloud/wiki/Kommuner) i en egen wikibase som ligger i Wikibase.cloud
