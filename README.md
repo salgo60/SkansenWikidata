@@ -41,3 +41,5 @@ Jag har [skapat en lista - Magnus list](https://www.wikidata.org/wiki/User:Salgo
 
 ### Vanliga problem - inga helpdesk nummer ###
 Inga bra plattformar att rapportera in fel och se status på fel. 2018 gjorde jag en status lista över myndigheter och **det går inte att jobba utan tydlighet** se "[Lesson learned so far and what is needed](https://www.wikidata.org/wiki/Property_talk:P5587#Lesson_learned_so_far_and_what_is_needed)"
+
+<img width="1013" alt="image" src="https://user-images.githubusercontent.com/14206509/186666160-9a45b7e3-188f-4641-945f-ac50b979fffd.png">
