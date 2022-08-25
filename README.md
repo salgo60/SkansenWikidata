@@ -30,7 +30,8 @@ Jag brukar [tjata om att jag jobbade på bank med att föra över pengar](https:
 
 * Bra tankar som gått fel
   * Skapa ett svenskt Rättsinformationssystem med 100 myndigheters författningar starta 1998 man gav upp efter 15 år se mina [anteckningar vad som hände](https://github.com/salgo60/LagrummetLight)
-  * Knyta ihop Europas kulturarv med känkade data -  När jag testade det 2019 hade man skickat runt text strängar och laddat upp 55 miljoner bilder med metadata som inte kan användas se artikel [2019 Carl Larsson who is that - sadly Europeana doesnt know](http://minancestry.blogspot.com/2020/03/carl-larsson-who-is-that-sadly.html)
+  * Knyta ihop Europas kulturarv med länkade data -  När jag testade det 2019 hade man skickat runt textsträngar och laddat upp 55 miljoner bilder med metadata som inte kan användas se artikel [2019 Carl Larsson who is that - sadly Europeana doesnt know](http://minancestry.blogspot.com/2020/03/carl-larsson-who-is-that-sadly.html)... nu börjar Europeana inse detta i ett ML projekt där just bra metadata behövs....
+     * ML ställer krav på bra metadata... när forskarna skulle digitalisera Riksdagstrycket se corpus xxx
 
 ## Vad behövs ##
 Jag har [skapat en lista - Magnus list](https://www.wikidata.org/wiki/User:Salgo60/ExternalIdentifiers) med alla fel jag hittar och en bra [föreläsning gjordes på Standford om detta se vid 26:30 min](https://stanford.zoom.us/rec/play/zCW7Zel4sQVeSIgwYL1fAz2E9dytx0_VDdCdKHd2e-CpXQJvS37W-PtohlON9wYLJ3PV_CCH1PR2Kg_s._N9DzHE1blpFqQNL)
@@ -40,6 +41,9 @@ Jag har [skapat en lista - Magnus list](https://www.wikidata.org/wiki/User:Salgo
 <img width="888" alt="image" src="https://user-images.githubusercontent.com/14206509/186665301-366d3fae-0987-402c-bc06-ea52cbee5f2a.png">
 
 ### Vanliga problem - inga helpdesk nummer ###
-Inga bra plattformar att rapportera in fel och se status på fel. 2018 gjorde jag en status lista över myndigheter och **det går inte att jobba utan tydlighet** se "[Lesson learned so far and what is needed](https://www.wikidata.org/wiki/Property_talk:P5587#Lesson_learned_so_far_and_what_is_needed)"
+Inga bra plattformar att rapportera in fel och se status på fel. 2018 gjorde jag en status lista över myndigheter och **det går inte att jobba utan tydlighet** se "[Lesson learned so far and what is needed](https://www.wikidata.org/wiki/Property_talk:P5587#Lesson_learned_so_far_and_what_is_needed)"... skall länkade data fungera så måste man prata med varandra '''[LinkeddataneedsLinkedpeople](https://twitter.com/hashtag/linkeddataneedslinkedpeople?src=hash&f=live)''' jag lyfte detta i [Bonn 2018 på SWIB]()
 
+#### Skickar runt textsträngar####
+* exempel European Data portal skickar textsträngar med språk tag se [Notebook](https://github.com/salgo60/open-data-examples/blob/master/European%20data%20portal%20-%20quality%20of%20Metadata.ipynb)  efter en presentation om hur Google jobbar med kunskapsgrafer så frågade jag dom varför dom inte gör rätt [video](https://youtu.be/COBykM5d_cg?t=3263)....
 <img width="1013" alt="image" src="https://user-images.githubusercontent.com/14206509/186666160-9a45b7e3-188f-4641-945f-ac50b979fffd.png">
+* samma med Kungliga bibliotekets LIBRISXL efter 10 år massa textsträngar i RDF och kan inte ens [kontrollera copyright](https://web.archive.org/web/20210403162110/https://kundo.se/org/librisxl/d/copyright-status-i-libris/) eller det verkar vara enklare för Litteaturbaken att [länka Wikidata än LIBRISXL](https://github.com/salgo60/spa2Commons/issues/3#issuecomment-933606594) - KB enormt rädda att få kritik --> stängde ned sitt externa forum efter [massa kritik](https://web.archive.org/web/20210127171806/https://kundo.se/org/librisxl/d/driftinstabilitet-02uo/) och läter inga [externa ge feedback](https://twitter.com/salgo60/status/1562347608852537344?s=20&t=JMcQYEIIFZtRmEYP9q1XEw)
