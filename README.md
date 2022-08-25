@@ -25,3 +25,19 @@ Beskrivning av lite det som gjorts och utmaningar. Skapa gärna [nya issues](htt
 * vill man prata wikibase.cloud finns en Telegram grupp **"Wikibase.Cloud / WBStack"** som har bra fart
 ## Historiska yrken
 Sammanställing jag gjorde av Historiska yrken se [GITHUB](https://github.com/salgo60/HISCOKoder) plus skickade ut en fråga rill DIGISAM / Riksarkivet om [Hur kommer vi vidare"](https://github.com/salgo60/HISCOKoder/issues/1)
+# Hur stor är utmaningen?
+Jag brukar [tjata om att jag jobbade på bank med att föra över pengar](https://youtu.be/GeDXzInR_mA?t=1130) och då var det inget snack om att bi hade 0 leverans för fel...
+
+* Bra tankar som gått fel
+  * Skapa ett svenskt Rättsinformationssystem med 100 myndigheters författningar starta 1998 man gav upp efter 15 år se mina [anteckningar vad som hände](https://github.com/salgo60/LagrummetLight)
+  * Knyta ihop Europas kulturarv med känkade data -  När jag testade det 2019 hade man skickat runt text strängar och laddat upp 55 miljoner bilder med metadata som inte kan användas se artikel [2019 Carl Larsson who is that - sadly Europeana doesnt know](http://minancestry.blogspot.com/2020/03/carl-larsson-who-is-that-sadly.html)
+
+## Vad behövs ##
+Jag har [skapat en lista - Magnus list](https://www.wikidata.org/wiki/User:Salgo60/ExternalIdentifiers) med alla fel jag hittar och en bra [föreläsning gjordes på Standford om detta se vid 26:30 min](https://stanford.zoom.us/rec/play/zCW7Zel4sQVeSIgwYL1fAz2E9dytx0_VDdCdKHd2e-CpXQJvS37W-PtohlON9wYLJ3PV_CCH1PR2Kg_s._N9DzHE1blpFqQNL)
+
+<img width="1341" alt="image" src="https://user-images.githubusercontent.com/14206509/186665171-4d577529-f354-43da-8772-e5423c1f9b10.png">
+
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/14206509/186665301-366d3fae-0987-402c-bc06-ea52cbee5f2a.png">
+
+### Vanliga problem - inga helpdesk nummer ###
+Inga bra plattformar att rapportera in fel och se status på fel. 2018 gjorde jag en status lista över myndigheter och **det går inte att jobba utan tydlighet** se "[Lesson learned so far and what is needed](https://www.wikidata.org/wiki/Property_talk:P5587#Lesson_learned_so_far_and_what_is_needed)"
