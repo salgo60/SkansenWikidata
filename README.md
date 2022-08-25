@@ -7,8 +7,8 @@ Beskrivning av lite det som gjorts och utmaningar. Skapa gärna [nya issues](htt
 ## Test av samma som Skansen
 * Museala miljöer - TBA
 ### SKOS -  Simple Knowledge Organization System
-Är ett sätt att utrycka semantiska likheter A är ung. som B
-  * exempel hur det lätt blir teoretiskt vad som är samma som "[When owl:sameAs Isn’t the Same: An Analysis of Identity in Linked Data](https://link.springer.com/content/pdf/10.1007%2F978-3-642-17746-0_20.pdf)"
+Är ett sätt att utrycka semantiska likheter A är ung. som B se [exempel skos:closeMatch skos:relatedMatch ...](https://www.w3.org/TR/skos-reference/#mapping) 
+ * exempel hur det lätt blir teoretiskt vad som är samma som "[When owl:sameAs Isn’t the Same: An Analysis of Identity in Linked Data](https://link.springer.com/content/pdf/10.1007%2F978-3-642-17746-0_20.pdf)"
  
 * utmaningar som jag ser
    * Stegeborgs slott / ruin [funderingar vilka objekt vi bör ha](https://phabricator.wikimedia.org/T225522#5284001)
