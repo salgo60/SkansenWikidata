@@ -31,7 +31,9 @@ Jag brukar [tjata om att jag jobbade på bank med att föra över pengar](https:
 * Bra tankar som gått fel
   * Skapa ett svenskt Rättsinformationssystem med 100 myndigheters författningar starta 1998 man gav upp efter 15 år se mina [anteckningar vad som hände](https://github.com/salgo60/LagrummetLight)
   * Knyta ihop Europas kulturarv med länkade data -  När jag testade det 2019 hade man skickat runt textsträngar och laddat upp 55 miljoner bilder med metadata som inte kan användas se artikel [2019 Carl Larsson who is that - sadly Europeana doesnt know](http://minancestry.blogspot.com/2020/03/carl-larsson-who-is-that-sadly.html)... nu börjar Europeana inse detta i ett ML projekt där just bra metadata behövs....
-     * ML ställer krav på bra metadata... när forskarna skulle digitalisera Riksdagstrycket se corpus xxx
+     * ML ställer krav på bra metadata... när forskarna skulle digitalisera Riksdagstrycket se projekt welfare state och [Riksdagens corpis](https://github.com/welfare-state-analytics/riksdagen-corpus) dom [väljer att skapa](https://drive.google.com/drive/folders/1Vk2q7s8Pi4DgZ1_B2xZB9mjF2SfFSOZs) **samma som Wikidata** eftersom Riksarkivet, Kungliga biblioteket inte har data om Sveriges Riksdagsmän genom tiderna se [Wikidata_riksdagen-corpus/issues/38](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/38)
+
+<img width="706" alt="image" src="https://user-images.githubusercontent.com/14206509/186889992-64916730-3ad4-45fe-a217-6ff18f36f959.png">
 
 ## Vad behövs ##
 Jag har [skapat en lista - Magnus list](https://www.wikidata.org/wiki/User:Salgo60/ExternalIdentifiers) med alla fel jag hittar och en bra [föreläsning gjordes på Standford om detta se vid 26:30 min](https://stanford.zoom.us/rec/play/zCW7Zel4sQVeSIgwYL1fAz2E9dytx0_VDdCdKHd2e-CpXQJvS37W-PtohlON9wYLJ3PV_CCH1PR2Kg_s._N9DzHE1blpFqQNL)
