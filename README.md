@@ -26,7 +26,7 @@ Beskrivning av lite det som gjorts och utmaningar. Skapa gärna [nya issues](htt
 ## Historiska yrken
 Sammanställing jag gjorde av Historiska yrken se [GITHUB](https://github.com/salgo60/HISCOKoder) plus skickade ut en fråga rill DIGISAM / Riksarkivet om [Hur kommer vi vidare"](https://github.com/salgo60/HISCOKoder/issues/1)
 # Hur stor är utmaningen?
-Jag brukar [tjata om att jag jobbade på bank med att föra över pengar](https://youtu.be/GeDXzInR_mA?t=1130) och då var det inget snack om att bi hade 0 leverans för fel...
+Jag brukar [tjata om att jag jobbade på bank med att föra över pengar](https://youtu.be/GeDXzInR_mA?t=1130) och då var det inget snack om att vi skulle ha 0 del i leverans... dit kanske ma inte kan komma med kulturarvsdata men det måste bli mer ordning....
 
 * Bra tankar som gått fel
   * Skapa ett svenskt Rättsinformationssystem med 100 myndigheters författningar starta 1998 man gav upp efter 15 år se mina [anteckningar vad som hände](https://github.com/salgo60/LagrummetLight)
